@@ -1,0 +1,3 @@
+/Users/douglas/ClionProjects/a3_u7h0b_x5n0b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/douglas/ClionProjects/a3_u7h0b_x5n0b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/douglas/ClionProjects/a3_u7h0b_x5n0b/cmake-build-debug/CMakeFiles/CSftp_try.dir
